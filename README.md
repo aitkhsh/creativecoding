@@ -1,4 +1,4 @@
 # 成果物
 
-- 20250117.rb
-[![Image from Gyazo](https://i.gyazo.com/24372957512e3da2e59451ff8d31daac.gif)](https://gyazo.com/24372957512e3da2e59451ff8d31daac)
+- 20250117.rb<br>
+[![Image from Gyazo](https://i.gyazo.com/b0e826b0bf3a4237bed6d06613e62c8d.gif)](https://gyazo.com/b0e826b0bf3a4237bed6d06613e62c8d)
